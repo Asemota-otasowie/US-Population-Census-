@@ -2,8 +2,14 @@
 
 ## Project Overview
 
+![bandicam 2024-10-18 17-01-42-697](https://github.com/user-attachments/assets/a5259fa8-604d-4144-86a4-1bd70ae0d147)
+
+![bandicam 2024-10-18 17-00-20-385](https://github.com/user-attachments/assets/33a3cb0c-81c2-4224-9d4f-1bc9699c0c1e)
+
 
 This project aims to analyze the population growth trend in the United States from 1900 to 2015.By understanding population changes during this period,policymakers, planners and resource managers can make informed decisions regarding resource allocation, infrastructure development and economic planning. This analysis will provide insights into how different regions have developd and grown over time, facilitating strategic investment in areas with high population growth.
+
+
 
 ### Data Sources
 The data source for this abalysis is from the 'U.S. Census Bureau' they provide annual population estimates by states and region(eg states, counties, metropolitan areas etc).
